@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fondo{
+    background-color: bisque;
+    width: 100%;
+}
+
+.fondo .header .logo{
+    border-radius: 20px;
+}
